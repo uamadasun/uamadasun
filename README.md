@@ -1,5 +1,7 @@
 
-<img src="/Users/uchennaamadasun/Downloads/banner.jpg"/>
+<img src="Rustic Minimal Wedding Print Banner.jpg"/>
+
+
 
 
 ### Hi there 👋
