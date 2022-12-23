@@ -1,6 +1,5 @@
 
-  <img src="https://www.canva.com/design/DAFVnSFXQgE/view">
-  </img>
+  <img src="https://www.canva.com/design/DAFVnSFXQgE/view"/>
 
 ### Hi there 👋
 
