@@ -1,4 +1,3 @@
-
 <img src="Rustic Minimal Wedding Print Banner.jpg"/>
 
 
@@ -7,12 +6,9 @@
 <h1 align="center">Hi 👋, I'm Uchenna</h1>
 <h3 align="center">A passionate full-stack web developer originally from Nigeria and currently residing in Seattle, Washington</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uamadasun" alt="uamadasun" /></a> </p>
-
 - 🌱 I’m currently a student in the Coding Dojo bootcamp, learning: **Web fundamentals, Python, Java, and MERN**
-
+- :pinched_fingers: I'm passionate about building projects that utilize **future-focused** technology
 - 💬 Ask me about **full-stack web development**
-
 - 📫 How to reach me **uchennaamadasun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uamadasun&show_icons=true&locale=en" alt="uamadasun" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uamadasun" alt="uamadasun" /></a> </p>
