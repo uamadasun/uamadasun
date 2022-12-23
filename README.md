@@ -1,4 +1,4 @@
-<img src="Rustic Minimal Wedding Print Banner.jpg"/>
+<img src="Yellow and Black Minimalist Beauty Product Reddit Banner.jpg"/>
 
 
 
