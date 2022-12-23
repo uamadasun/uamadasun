@@ -18,6 +18,8 @@
 
 <h3 align="left">Technologies and Skills:</h3>
 - [ ] Java
+
+- [ ] 
 - [ ] Python
 - [ ] Javascript
 - [ ] CSS 3
