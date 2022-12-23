@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Uchenna</h1>
+<h1 align="center">Hi 👋, I'm Uchenna!</h1>
 <h3 align="center">A passionate full-stack web developer originally from Nigeria and currently residing in Seattle, Washington</h3>
 
 - 🌱 I’m currently a student in the Coding Dojo bootcamp, learning: **Web fundamentals, Python, Java, and MERN**
