@@ -17,20 +17,20 @@
 </p>
 
 <h3 align="left">Technologies and Skills:</h3>
-- Java
-- Python
-- Javascript
-- CSS 3
-- HTML 5
-- Bootstrap
-- AWS
-- Express
-- Mongo DB
-- React
-- Node JS
-- Flask
-- Nginx
-- MySQL
-- Spring Tool Suites
-- Postman
-- AWS
+- [ ] Java
+- [ ] Python
+- [ ] Javascript
+- [ ] CSS 3
+- [ ] HTML 5
+- [ ] Bootstrap
+- [ ] AWS
+- [ ] Express
+- [ ] Mongo DB
+- [ ] React
+- [ ] Node JS
+- [ ] Flask
+- [ ] Nginx
+- [ ] MySQL
+- [ ] Spring
+- [ ] Postman
+- [ ] AWS
