@@ -1,5 +1,5 @@
 
-  <img src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFVnSFXQgE&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  <img src="https://www.canva.com/design/DAFVnSFXQgE/view">
   </img>
 
 ### Hi there 👋
