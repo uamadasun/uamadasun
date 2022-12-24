@@ -1,4 +1,4 @@
-<img src="Yellow and Black Minimalist Beauty Product Reddit Banner.jpg"/>
+<img src="Yellow and Black Minimalist Beauty Product Reddit Banner (1).jpg"/>
 
 
 
