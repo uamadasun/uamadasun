@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Uchenna!</h1>
 <h3 align="center">A passionate full-stack web developer originally from Nigeria and currently residing in Seattle, Washington</h3>
 
-- 🌱 I’m currently a student at the Coding Dojo bootcamp, learning: **MERN**
+- 🌱 I’m currently a student at the Coding Dojo bootcamp.
 - :pinched_fingers: I'm passionate about building projects that utilize exciting, new technologies.
 - 💬 Ask me about **full-stack web development**
 - 📫 How to reach me **uchennaamadasun@gmail.com**
