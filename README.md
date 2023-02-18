@@ -1,37 +1,17 @@
 <img src="Yellow and Black Minimalist Beauty Product Reddit Banner (1).jpg"/>
 
+<h2 align="center">Hi 👋, I'm Uchenna, a full stack junior developer and I'm open for work!</h2>
 
-
-
-<h1 align="center">Hi 👋, I'm Uchenna!</h1>
-<h3 align="center">A passionate full-stack web developer originally from Nigeria and currently residing in Seattle, Washington</h3>
-
-- 🌱 I graduated from the Coding Dojo bootcamp where I learned full stack development in Python, Java, and MERN.
-- :pinched_fingers: I'm passionate about building projects that utilize exciting, new technologies.
-- 💬 Ask me about **full-stack web development**
-- 📫 How to reach me **uchennaamadasun@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/uchenna-amadasun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,express,flask,python,flask,nginx,java,spring,mysql,mongodb,aws,vscode,postman" />
+  </a>
 </p>
 
-<h3 align="left">Technologies and Skills:</h3>
 
-- [ ] Java
-- [ ] Python
-- [ ] Javascript
-- [ ] CSS 3
-- [ ] HTML 5
-- [ ] Bootstrap
-- [ ] AWS
-- [ ] Express
-- [ ] Mongo DB
-- [ ] React
-- [ ] Node JS
-- [ ] Flask
-- [ ] Nginx
-- [ ] MySQL
-- [ ] Spring
-- [ ] Postman
-- [ ] AWS
+- :computer:  Full-stack junior web developer, open for work.
+- :pinched_fingers:  I love building projects that utilize exciting, new technologies.
+- :woman:  My preferred development stacks are MERN, Python, and Java.
+- :information_desk_person:  Ask me about **full-stack web development**
+- :mailbox:  Reach me at **[uchennaamadasun@gmail.com](mailto:uchennaamadasun@gmail.com)**
+- :link: Connect with me at **[linkedin.com/in/uchenna-amadasun](https://www.linkedin.com/in/uchenna-amadasun/)**
